@@ -1,0 +1,131 @@
+====== 地区 ======
+
+在《符文之地传奇》中，有十个地区：比尔吉沃特、德玛西亚、弗雷尔卓德、艾欧尼亚、诺克萨斯、皮尔特沃夫和祖安、暗影岛、巨神峰、恕瑞玛和班德尔城。地区充当卡牌派系，您可以从中构建牌组。在构建牌组时，您的套牌中最多可以有两个区域。草稿牌组目前没有限制。
+
+<WRAP group>
+<WRAP column>
+      *{{:card_types:bilgewater_lor_region.png.png?nolink&20|Bilgewater}} [[浏览:卡牌:地区#bilgewater|比尔吉沃特]]
+      *{{:card_types:demacia_lor_region.png.png?nolink&20|Demacia}} [[浏览:卡牌:地区#demacia|德玛西亚]]
+</WRAP>
+<WRAP column>
+      *{{:card_types:freljord_lor_region.png.png?nolink&20|Freljord}} [[浏览:卡牌:地区#freljord|弗雷尔卓德]]
+      *{{:card_types:ionia_lor_region.png.png?nolink&20|Ionia}} [[浏览:卡牌:地区#艾欧尼亚|艾欧尼亚]]
+</WRAP>
+<WRAP column>
+      *{{:card_types:noxus_lor_region.png.png?nolink&20|Noxus}} [[浏览:卡牌:地区#noxus|诺克萨斯]]
+      *{{:card_types:piltover_zaun_lor_region.png.png?nolink&20|Piltover Zaun}} [[浏览:卡牌:地区#piltover_zaun|皮尔特沃夫 & 祖安]]
+</WRAP>
+<WRAP column>
+      *{{:card_types:shadow_isles_lor_region.png.png?nolink&20|Shadow Isles}} [[浏览:卡牌:地区#shadow_isles|暗影岛]]
+      *{{:card_types:targon_lor_region.png.png?nolink&20|Targon}} [[浏览:卡牌:地区#targon|巨神峰]]
+</WRAP>
+<WRAP column>
+      *{{:card_types:shurima_lor_region.png.png?nolink&20|Shurima}} [[浏览:卡牌:地区#shurima|恕瑞玛]]
+      *{{:card_types:bandle_city_lor_region.png.png?nolink&20|Bandle City}} [[浏览:卡牌:地区#bandle_city|班德尔城]]
+</WRAP>
+</WRAP>
+
+{{anchor:bilgewater}}
+===== 比尔吉沃特 =====
+比尔吉沃特placeholder
+
+比尔吉沃特placeholder
+
+比尔吉沃特placeholder
+
+比尔吉沃特placeholder
+
+比尔吉沃特placeholder
+
+比尔吉沃特placeholder
+
+比尔吉沃特placeholder
+
+{{anchor:demacia}}
+===== 德玛西亚 =====
+德玛西亚placeholder
+
+德玛西亚placeholder
+
+德玛西亚placeholder
+
+德玛西亚placeholder
+
+德玛西亚placeholder
+
+德玛西亚placeholder
+
+德玛西亚placeholder
+
+德玛西亚placeholder
+
+{{anchor:freljord}}
+===== 弗雷尔卓德 =====
+弗雷尔卓德placeholder
+
+弗雷尔卓德placeholder
+
+弗雷尔卓德placeholder
+
+弗雷尔卓德placeholder
+
+弗雷尔卓德placeholder
+
+弗雷尔卓德placeholder
+
+弗雷尔卓德placeholder
+
+弗雷尔卓德placeholder
+
+{{anchor:艾欧尼亚}}
+===== 艾欧尼亚 =====
+艾欧尼亚placeholder
+
+艾欧尼亚placeholder
+
+艾欧尼亚placeholder
+
+艾欧尼亚placeholder
+
+艾欧尼亚placeholder
+
+艾欧尼亚placeholder
+
+艾欧尼亚placeholder
+
+艾欧尼亚placeholder
+
+{{anchor:noxus}}
+===== 诺克萨斯 =====
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+诺克萨斯placeholder
+
+{{anchor:piltover_zaun}}
+===== 皮尔特沃夫 & 祖安 =====
+
+{{anchor:shadow_isles}}
+===== 暗影岛 =====
+
+{{anchor:targon}}
+===== 巨神峰 =====
+
+{{anchor:shurima}}
+===== 恕瑞玛 =====
+
+{{anchor:bandle_city}}
+===== 班德尔城 =====

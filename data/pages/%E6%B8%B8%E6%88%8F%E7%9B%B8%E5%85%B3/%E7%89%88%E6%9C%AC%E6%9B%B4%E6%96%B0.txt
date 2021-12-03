@@ -1,0 +1,99 @@
+====== 版本更新 ======
+
+游戏通常每半个月（两周）更新一次，更新时间约为每周三晚上的凌晨，一般提前一天可以在官方应用商店（苹果App Stroe / Google Play商店）下载游戏的更新包，但正式更新后仍需在进入游戏时下载新版本数据。
+
+以下展示近3次的更新内容（营地简中公告及官方繁中公告）
+
+===== 2.20.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5149985
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-20-0-notes/
+  * 主要更新内容：平衡和卡牌调整，「破败之咒」礼包等商品新增，改进与漏洞修复。
+
+===== 2.19.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5150141
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-19-0-notes/
+  * 主要更新内容：新活动：「英雄之路」活动与超级活动通行证，全新卡牌「杰斯」及相关卡牌，「上流贵族」系列皮肤等商品新增，改进与漏洞修复。
+
+===== 2.18.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5140298
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-18-0-notes/
+  * 主要更新内容：「世界之间」排位赛季正式开跑，重大平衡和卡牌调整，改进与漏洞修复。
+
+===== 更多 =====
+++++展开| 
+===== 2.17.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5116148
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-17-0-notes/
+  * 主要更新内容：「战斗学院」系列皮肤，改进与漏洞修复。
+
+===== 2.16.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5117396
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-16-0-notes/
+  * 主要更新内容：「提莫」和「菲兹」原画更新，改进与漏洞修复。
+
+===== 2.15.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5124806
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-15-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.14.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5108835
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-14-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.13.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5091129
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-13-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.12.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5087685
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-12-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.11.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5083968
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-11-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.10.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5078020
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-10-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.9.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5061324
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-9-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.8.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5057102
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-8-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.7.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/5021752
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-7-0-notes/
+  * 主要更新内容：待填入
+
+===== 2.6.0版本更新公告 =====
+
+  * 简中更新公告：https://www.iyingdi.com/tz/post/2371622
+  * 繁中更新公告：https://playruneterra.com/zh-tw/news/game-updates/patch-2-6-0-notes/
+  * 主要更新内容：待填入
+
+++++

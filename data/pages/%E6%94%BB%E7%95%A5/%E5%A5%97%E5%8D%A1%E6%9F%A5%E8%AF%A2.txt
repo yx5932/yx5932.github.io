@@ -1,0 +1,5 @@
+====== 套卡查询 ======
+常用套卡查询网站：
+  * 英文：https://lor.mobalytics.gg/decks
+  * 中文（营地）：https://iyingdi.com/web/tools/lor/deckset
+  * 中文（五哥）：https://lorfive.com

@@ -1,0 +1,53 @@
+====== 卡牌 ======
+{{anchor:card_region}}
+===== 按地区 =====
+每张卡可能属于一个或两个地区。一名玩家在正常游戏中最多可以选择2个地区的卡牌加入牌组，这就限制了玩家可以添加到卡组中的卡：只能是那些至少包含他们卡组中的一个地区的卡。选择什么样的地区将决定卡组的玩法。
+
+目前，LoR中共有10个[[浏览:卡牌:地区|地区]]。
+
+  *{{:card_types:bilgewater_lor_region.png.png?nolink&17|Bilgewater}} [[浏览:卡牌:地区:比尔吉沃特|比尔吉沃特]]
+  *{{:card_types:demacia_lor_region.png.png?nolink&17|Demacia}} [[浏览:卡牌:地区:德玛西亚|德玛西亚]]
+  *{{:card_types:freljord_lor_region.png.png?nolink&17|Freljord}} [[浏览:卡牌:地区:弗雷尔卓德|弗雷尔卓德]]
+  *{{:card_types:ionia_lor_region.png.png?nolink&17|Ionia}} [[浏览:卡牌:地区:艾欧尼亚|艾欧尼亚]]
+  *{{:card_types:noxus_lor_region.png.png?nolink&17|Noxus}} [[浏览:卡牌:地区:诺克萨斯|诺克萨斯]]
+  *{{:card_types:piltover_zaun_lor_region.png.png?nolink&17|Piltover Zaun}} [[浏览:卡牌:地区:皮尔特沃夫 & 祖安|皮尔特沃夫 & 祖安]]
+  *{{:card_types:shadow_isles_lor_region.png.png?nolink&17|Shadow Isles}} [[浏览:卡牌:地区:暗影岛|暗影岛]]
+  *{{:card_types:targon_lor_region.png.png?nolink&17|Targon}} [[浏览:卡牌:地区:巨神峰|巨神峰]]
+  *{{:card_types:shurima_lor_region.png.png?nolink&17|Shurima}} [[浏览:卡牌:地区:恕瑞玛|恕瑞玛]]
+  *{{:card_types:bandle_city_lor_region.png.png?nolink&17|Bandle City}} [[浏览:卡牌:地区:班德尔城|班德尔城]]
+
+{{anchor:card_type}}
+===== 按卡牌类型 =====
+LoR中的卡牌主要可以分为5个[[浏览:卡牌:类型|类型]]:
+
+  * {{:card_types:unit_card.png.png?nolink&17|Unit}} [[浏览:卡牌:类型:单位|单位]]
+  * {{:card_types:spell_card.svg.png?nolink&17|Spell}} [[浏览:卡牌:类型:法术|法术]]
+  * {{:card_types:keyword_landmark.png.png?nolink&17|Landmark}} [[浏览:卡牌:类型:地标|地标]]
+  * {{:card_types:keyword_trap.svg.png?nolink&17|Trap}} [[浏览:卡牌:类型:陷阱|陷阱]]
+  * {{:card_types:keyword_skill.png.png?nolink&17|Skill}} [[浏览:卡牌:类型:技能|技能]]
+
+{{anchor:card_rarity}}
+===== 按稀有度 =====
+卡片的稀有性表示它们有多难获得，以及获取它们的成本有多高。只有收集型卡牌才有稀有度。卡片的稀有度是由卡片底部的彩色宝石表示的。目前，有5种稀有度。
+
+^  稀有度  ^  价值（[[收集品:货币:精粹|精粹]]）  ^  价值（[[收集品:货币:金币|金币]]）  ^
+|  无（不可收集）  |  /  |  /  |
+|  {{:card_types:lor_common_icon.png.png?nolink&15|Common}}普通  |  {{:card_types:100_shard.png?nolink&15|}}100  |  {{:card_types:coin_icon.png?nolink&15|}}10  |
+|  {{:card_types:lor_rare_icon.png.png?nolink&15|Rare}} 稀有  |  {{:card_types:100_shard.png?nolink&15|}}300  |  {{:card_types:coin_icon.png?nolink&15|}}30  |
+|  {{:card_types:lor_epic_icon.png.png?nolink&15|Epic}} 史诗  |  {{:card_types:100_shard.png?nolink&15|}}1200  |  {{:card_types:coin_icon.png?nolink&15|}}120  |
+|  {{:card_types:lor_champion_icon.png.png?nolink&15|Champion}} 英雄  |  {{:card_types:100_shard.png?nolink&15|}}3000  |  {{:card_types:coin_icon.png?nolink&15|}}300  |
+
+{{anchor:card_set}}
+===== 按系列 =====
+卡牌都是被称为[[浏览:卡牌:系列|系列]]的大版本的一部分，每个系列都被分成了三个扩展版本。唯一的例外是{{:card_types:lor_set_1_icon.png.png?nolink&17|}}基础系列，其所有卡牌都是在第一个测试补丁中发布的。目前，共有5个系列。
+
+  * {{:card_types:lor_set_1_icon.png.png?nolink&17|LoR Set 1 icon.png}} [[浏览:卡牌:系列#set1|基础系列]]
+  * {{:card_types:lor_set_2_icon.png.png?nolink&17|LoR Set 2 icon.png}} [[浏览:卡牌:系列#set2|浪潮涌动]]
+  * {{:card_types:lor_set_3_icon.png.png?nolink&17|LoR Set 3 icon.png}} [[浏览:卡牌:系列#set3|神峰之召]]
+  * {{:card_types:lor_set_4_icon.png.png?nolink&17|LoR Set 4 icon.png}} [[浏览:卡牌:系列#set4|飞升帝国]]
+  * {{:card_types:lor_set_5_icon.png.png?nolink&17|LoR Set 5 icon.png}} [[浏览:卡牌:系列#set5|世外班森]]
+
+{{anchor:trivia}}
+===== 杂项 =====
+  * These subtypes were in a prototype set for Set 1: Ascendant, Celestial, Keyword Daybreak.png Day, Dragon, Keyword Landmark.png Landmark, Lurker and Keyword Nightfall.png Night. Most of these have since been turned into their own subtype, the exceptions being Day and Night, which were introduced in LoR Set 3 icon.png Call of the Mountain as keywords; and Landmark, which was introduced in the expansion Monuments of Power as a separate card type.
+  * The Rarity gems are loosely based off those used for Skins in League of Legends icon.png League of Legends, and Champions in Teamfight Tactics icon.png Teamfight Tactics.

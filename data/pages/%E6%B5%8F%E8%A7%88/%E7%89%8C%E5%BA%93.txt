@@ -1,0 +1,15 @@
+====== 牌库 ======
+
+单卡查询（中文）：https://www.iyingdi.com/web/tools/lor/cards
+
+单卡查询（英文）：https://lor.mobalytics.gg/cards
+
+====== 筛选 ======
+ 
+^  分类  ^  信息  ^
+^  系列  |  [[浏览:牌库:基础包|基础包]] · 浪潮涌动 · 神峰之召 · 飞升帝国 · 世外班森  |
+^  地区  |  no idea what to write in here  |
+^  类型  |  But still some idea for here  |
+^  游戏模式  |  But still some idea for here  |
+
+{{gallery> :set1_jpg?*de*.jpg&100x160&0&crop&showtitle&&~80&lightbox }}
